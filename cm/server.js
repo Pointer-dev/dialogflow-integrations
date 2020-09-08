@@ -15,8 +15,8 @@
  */
 
 //Insert your values here
-const cmProductToken = 'YOUR_CM_PRODUCT_TOKEN';
-const projectId = 'YOUR_PROJECT_ID';
+const cmProductToken = b6209d5451dd24c24737455e265a309e;
+const projectId = whatsapp;
 
 const express = require('express');
 const request = require('request');
